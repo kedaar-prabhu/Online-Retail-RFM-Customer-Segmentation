@@ -69,6 +69,3 @@ The goal is to identify high-value customers, understand revenue concentration, 
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Optional**: Scikit-learn (for K-Means clustering)
 
----
-
-## 📁 Project Structure
